@@ -1,0 +1,13 @@
+# Ignore API_KEY.txt
+API_KEY.txt
+run.sh
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore IDE-specific files
+.vscode/
+
+# Ignore virtual environment
+env/
