@@ -2,9 +2,6 @@ import requests
 import xlsxwriter
 import pandas as pd
 import numpy as np
-import openpyxl
-from openpyxl import Workbook, load_workbook
-from openpyxl.styles import Border, Side, Font, Alignment, PatternFill, numbers
 
 # Read API key
 f = open('API_KEY.txt', 'r')
